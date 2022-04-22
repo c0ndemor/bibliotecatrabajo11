@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?> 
+<?xml-stylesheet href="https://c0ndemor.github.io/bibliotecatrabajo11/biblioteca.xsl" type="text/xsl"?>
 <biblioteca> 
     <libro COD="1"> 
         <titulo>La vida está en otra parte</titulo> 
